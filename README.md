@@ -1,6 +1,8 @@
 # Static Site Deployment - Buy with Brain
 
-This repository contains the production build of the [Buy with Brain](https://github.com/therobotacademy/Buy-with-Brain#) React application.
+This repository contains the production build of the [Buy with Brain](https://github.com/therobotacademy/Buy-with-Brain#) React application. Fid the site at:
+
+https://therobotacademy.github.io/pages-Buy-with-Brain/index.html
 
 ## 🚀 How to Deploy on Digital Ocean App Platform
 
